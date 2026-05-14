@@ -181,6 +181,4 @@ MIT License — see `LICENSE` for details.
 ## Citation
 
 > Anonymous authors. (under review). XAI-Assisted Review and HITL Bottleneck Mitigation:
-> A Queueing Theory Approach. *Decision Support Systems*.
->
-> This citation will be updated upon acceptance.
+> A Queueing Theory Approach.
