@@ -1,0 +1,4 @@
+Scenario,Mean Wq (h),Median Wq (h),Std Wq (h),P95 Wq (h),Mean utilization,Mean throughput (j/h)
+S1 (No XAI),53.232,26.691,70.753,202.437,0.5948,0.01048
+S2 (Partial XAI),17.641,8.209,26.224,66.389,0.5993,0.03065
+S3 (Full XAI),5.523,2.209,8.045,21.277,0.6004,0.08995

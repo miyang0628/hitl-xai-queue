@@ -1,0 +1,25 @@
+# ── HITL Bottleneck × XAI-Assisted Review ────────────────────────────────────
+# Paper: XAI-Assisted Review and HITL Bottleneck Mitigation: A Queueing Theory Approach
+# Target journal: Decision Support Systems (DSS)
+#
+# Python 3.10 recommended (tested on 3.12.3)
+# Install: pip install -r hitl_xai_queue_requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Simulation core
+simpy==4.1.1
+
+# Numerical & statistical analysis
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.2
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Jupyter environment
+jupyter==1.1.1
+notebook==7.5.6
+ipykernel==7.2.0
+nbformat==5.10.4

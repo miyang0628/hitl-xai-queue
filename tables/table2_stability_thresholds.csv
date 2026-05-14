@@ -1,0 +1,4 @@
+Scenario,Stability threshold lambda* (jobs/h),Max stable arrivals (jobs/day),Max stable arrivals (jobs/wk),Capacity ratio vs S1
+S1 (No XAI),0.01927,0.1541,0.77,1.0
+S2 (Partial XAI),0.0565,0.452,2.26,2.93
+S3 (Full XAI),0.16529,1.3223,6.61,8.58

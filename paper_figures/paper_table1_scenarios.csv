@@ -1,0 +1,4 @@
+Scenario,s_small (h),s_large (h),E[S] (h),Var[S],sigma[S] (h),mu (jobs/h),Throughput (jobs/wk),Capacity ratio vs S1
+S1 (No XAI),72.0,5.0,51.9,942.7,30.7,0.01927,0.77,1.0
+S2 (Partial XAI),24.0,3.0,17.7,92.6,9.6,0.0565,2.26,2.93
+S3 (Full XAI),8.0,1.5,6.05,8.9,3.0,0.16529,6.61,8.58

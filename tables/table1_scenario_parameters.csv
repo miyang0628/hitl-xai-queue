@@ -1,0 +1,4 @@
+Scenario,s_small (h),s_large (h),E[S] (h),Var[S],sigma[S] (h),mu (jobs/h),alpha (XAI gain),Throughput (jobs/wk)
+S1 (No XAI),72.0,5.0,51.9,942.69,30.7,0.01927,0.0,0.77
+S2 (Partial XAI),24.0,3.0,17.7,92.61,9.62,0.0565,1.932,2.26
+S3 (Full XAI),8.0,1.5,6.05,8.87,2.98,0.16529,7.579,6.61

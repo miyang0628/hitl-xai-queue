@@ -1,0 +1,4 @@
+Scenario,lambda (jobs/h),rho,Wq analytical (h),Wq simulated mean (h),95% CI lower,95% CI upper,Error (%)
+S1 (No XAI),0.011561,0.6,52.548,53.232,49.398,57.066,1.3
+S2 (Partial XAI),0.033898,0.6,17.199,17.641,15.648,19.634,2.57
+S3 (Full XAI),0.099174,0.6,5.637,5.523,5.065,5.98,-2.03
